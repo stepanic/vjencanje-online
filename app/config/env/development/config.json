@@ -1,0 +1,6 @@
+{
+  "ENV": {
+    "backendUrl": "http://api.vjencanje.online:80",
+    "enableLogging": true
+  }
+}
